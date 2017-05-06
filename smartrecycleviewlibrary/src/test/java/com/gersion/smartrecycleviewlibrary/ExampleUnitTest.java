@@ -1,4 +1,4 @@
-package com.gersion.smartrecycleview;
+package com.gersion.smartrecycleviewlibrary;
 
 import org.junit.Test;
 
